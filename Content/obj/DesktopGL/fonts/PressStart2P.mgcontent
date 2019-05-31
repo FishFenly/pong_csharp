@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/joseph/localrepos/pong_csharp/Content/fonts/PressStart2P.spritefont</SourceFile>
+  <SourceTime>2019-05-27T19:32:00.928944+01:00</SourceTime>
+  <DestFile>/home/joseph/localrepos/pong_csharp/Content/bin/DesktopGL/fonts/PressStart2P.xnb</DestFile>
+  <DestTime>2019-05-27T19:32:18.341323+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-05-02T17:58:16.841669+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-05-02T17:58:16.841669+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/joseph/localrepos/pong_csharp/Content/textures/title-screen.png</File>
+    <File>/home/joseph/localrepos/pong_csharp/Content/textures/paddle.png</File>
+    <File>/home/joseph/localrepos/pong_csharp/Content/textures/ball.png</File>
+    <File>/home/joseph/localrepos/pong_csharp/Content/fonts/PressStart2P.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
